@@ -4,6 +4,5 @@
 
 https://github.com/Hayes-Lab/2025_Camfield_Jove/blob/main/MIA%20Generation%20Protocol.html
 
-https://hayes-lab.github.io/2025_Camfield_Jove/
 
 [qmd-script](https://github.com/Hayes-Lab/2025_Camfield_Jove/blob/main/MIA%20Generation%20Protocol.qmd)
